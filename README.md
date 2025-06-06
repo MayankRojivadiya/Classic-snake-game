@@ -17,8 +17,8 @@ A recreation of the classic Snake Game using **Python** and the built-in **`turt
 ---
 
 ## 🖼️ Preview
+
 ![Game Preview](./assets/preview(1).png)
-![Game Preview](./assets/preview(2).png)
 
 ---
 
