@@ -16,6 +16,12 @@ A recreation of the classic Snake Game using **Python** and the built-in **`turt
 
 ---
 
+## 🖼️ Preview
+![Game Preview](./assets/preview(1).png)
+![Game Preview](./assets/preview(2).png)
+
+---
+
 ## 🔧 Technologies Used
 
 - 🐍 Python 3.x
@@ -35,6 +41,3 @@ A recreation of the classic Snake Game using **Python** and the built-in **`turt
 - 📦 Modular code: `snake.py`, `food.py`, `score.py`, and `border.py`
 
 ---
-
-## 📂 File Structure
-
