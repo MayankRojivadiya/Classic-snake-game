@@ -41,3 +41,8 @@ A recreation of the classic Snake Game using **Python** and the built-in **`turt
 - 📦 Modular code: `snake.py`, `food.py`, `score.py`, and `border.py`
 
 ---
+
+## How to Run
+```bash
+python Classic-snake-game.py
+
